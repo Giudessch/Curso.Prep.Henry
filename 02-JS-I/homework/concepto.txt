@@ -1,1 +1,29 @@
-Resolucion homeworks js1
+Las variables tienen la habilidad de poder guardar y recuperar información en ella, para usarla
+cuando sea necesario. Para crear una variable en Java Script usamos la palabra clave var(hacemos
+referencia a variable), seguida del nombre que nosotros el pongamos a la variable, y finalmente le
+asignamos un valor, luego del signo igual (=). Ej var nombre = 'giuliana'
+El lenguaje de programacion va a ver lo que tiene una variable dentro para resolver cualquier
+problema. Existen tres formas de declarar una variable, de darle valor:
+1- var nombre = 'giuliana'
+2- let es otra de las formas de darle valor a las variables, pero presenta un comportamiento
+diferente a var.
+3- const es un tipo de variable que no puede cambiar su valor, no se puede pisar.
+
+Lo que guardamos dentro de estas variables recibe el nombre de tipo de datos, indica que clase
+de datos se va a manejar dentro de las mismas. Los tipos de datos mas basicos dentro de Jave Script
+son:
+Strings: corresponden a hilos de letras, es decir una palabra. La cual tiene que ser definida
+entre comillas simples o dobles. Si ponemos una string sin comillas deja de ser string.
+Ejemplo var nombre = 'giuliana'
+Numbers: agrupa a todos los numeros en un solo tipo de datos. Estos pueden ser positivos o negativos
+No se envuelven en comillas simples o dobles.
+Ejemplo var casa = 15
+Booleanos: Este tipo de datos puede tener dos valores posibles, verdadero (true) o falso (false).
+Ejemplo: var megustalapizza = true
+
+Por otro lado, las funciones dentro del lenguaje de programacion y sobre todo en Java Script
+nos permite ejecurtar codigos y reusarlos.Principalmente nos sirve para no repetir o 
+escribir codigos dos o mas veces.
+
+
+
